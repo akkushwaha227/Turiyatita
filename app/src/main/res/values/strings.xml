@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Turiyatita</string>
+    <string name="heading_1">Using CardView, ImageView and ViewPager</string>
+    <string name="heading_2">Using CardView, CircularImageView and RecyclerView</string>
+    <string name="heading_3">Using CardView, ImageView and RecyclerView</string>
+    <string name="heading_4">Using CardView, ImageView and ViewPager</string>
+</resources>
